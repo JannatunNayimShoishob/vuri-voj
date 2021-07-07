@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%
+}
+#h1style{
+    text-align: center;
+    color: darkorange;
+    background-color: firebrick;
+}
+h1{
+    font-size: 40px;
+}
+.name-color{
+    color: rgb(255, 102, 0);
+}
+.flaxible-container{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 60%;
+    padding: 5%;
+}
+.half-width img{
+    width: 90%; height: 105%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(230, 52, 21) ;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 800;
+    border-radius: 5px;
+    
+}
+.first-banner{
+    background-image: url(image/bg-pic\ \(1\).jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+#text-centerr{
+    text-align: justify;
+    color: blue;
+}
+.second-banner{
+    background-image: url(image/bg-pic\ \(4\).jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+#text-color{
+    color: rgb(13, 0, 196);
+    font-size: 165%;
+    font-style: inherit;
+    text-align: justify;
+}
+
+.food-area{
+    background-image: url(image/bg-pic\ \(2\).jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+
+.border-color{
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(255, 0, 0), rgb(251, 255, 8));
+    border-image-slice: 1;
+    
+}
+.text-center{
+    text-align: center;
+
+}
+
+.food{
+    height: 300px; width: 400px; border: 10px; border-radius: 10px;
+}
+
+
+spen{
+    color: crimson;
+}
+
+footer p {
+    text-align: center;
+    font-style: normal;
+}
+#footer-bg{
+    background-color: darkgreen;
+}
